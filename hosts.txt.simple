@@ -1,0 +1,5 @@
+[staging_servers]
+Administrator	ansible_host=your_server_ip_address	owner=Admin
+
+[staging_managers]
+Manager		ansible_host=your_server_ip_address	owner=Man
